@@ -1,6 +1,10 @@
 #!/bin/sh
 
+git update-index --chmod=+x bootstrap.sh
+
 set -e
 
 gem install bundler
 bundle install
+
+
