@@ -1,9 +1,5 @@
-title: Yu Shuyan's page
-description: 好好学习，天天向上.
-show_downloads: false
+title: Merlot theme
+description: Merlot is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
-
 theme: jekyll-theme-merlot
-
-
-
