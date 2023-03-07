@@ -1,6 +1,5 @@
 #!/bin/sh
 
-git update-index --chmod=+x bootstrap.sh
 
 set -e
 
