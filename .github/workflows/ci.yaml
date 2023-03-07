@@ -14,6 +14,8 @@ jobs:
           bundler-cache: true
       - name: change permissions
         run: chmod +x script/bootstrap
+      - name: change permissions
+        run: chmod +x script/cibuild
       - name: build
         run: script/bootstrap
       - name: test
